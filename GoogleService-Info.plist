@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>152779350974-4qjdcbn9hurr7kcoe74dsgdbeem29uf1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.152779350974-4qjdcbn9hurr7kcoe74dsgdbeem29uf1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQtlrytooUsf38oT01AUxSHKzWpZBubF8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>152779350974</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.atikhasan.FotografPaylasmaUygulamasi</string>
+	<key>PROJECT_ID</key>
+	<string>fotografuygulamasi-5b72d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fotografuygulamasi-5b72d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Fotoğraf Yüklemek için</string>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:152779350974:ios:ac264a7957cb38e72d4fef</string>
+</dict>
+</plist>
